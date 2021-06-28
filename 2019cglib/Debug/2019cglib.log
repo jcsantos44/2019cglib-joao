@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  app.cpp
+c:\opengl\2019cglib\applications\app.cpp(9): fatal error C1083: Não é possível abrir arquivo incluir: 'GL/glew.h': No such file or directory
+  objloader.cpp
+c:\opengl\2019cglib\applications\objloader.cpp(13): fatal error C1083: Não é possível abrir arquivo incluir: 'GL/glew.h': No such file or directory
+  shader.cpp
+c:\opengl\2019cglib\applications\shader.cpp(19): fatal error C1083: Não é possível abrir arquivo incluir: 'GL/glew.h': No such file or directory
+  Gerando Código...
